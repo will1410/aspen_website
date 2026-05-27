@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="333"
+   width="340"
    height="116"
-   viewBox="0 0 88.10625 30.691667"
+   viewBox="0 0 89.958333 30.691667"
    version="1.1"
    id="svg1"
    inkscape:export-filename="bitmap.png"
    inkscape:export-xdpi="1200"
    inkscape:export-ydpi="1200"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="als_logo.svg"
+   sodipodi:docname="alsf_logo_right.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.1442755"
-     inkscape:cx="121.0199"
-     inkscape:cy="100.9665"
+     inkscape:zoom="3.0324635"
+     inkscape:cx="142.29355"
+     inkscape:cy="67.436921"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g2" />
   <defs
      id="defs1">
     <linearGradient
@@ -82,7 +82,7 @@
          transform="translate(9.1666667,9.1666639)">
         <g
            id="group-R5"
-           transform="translate(10,20)">
+           transform="translate(235,20)">
           <path
              id="path2"
              d="M 632.652,6.25 H 99.8477 C 48.1563,6.25 6.25,48.1523 6.25,99.8555 V 632.652 c 0,51.696 41.9063,93.598 93.5977,93.598 H 632.652 c 51.696,0 93.598,-41.902 93.598,-93.598 V 99.8555 C 726.25,48.1523 684.348,6.25 632.652,6.25"
@@ -97,25 +97,30 @@
         </g>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.0591px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#010000;fill-opacity:1;fill-rule:evenodd;stroke:#cae7fd;stroke-width:0"
-           x="116.83334"
-           y="30.207382"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.8939px;line-height:0;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#010000;fill-opacity:1;fill-rule:evenodd;stroke:#cae7fd;stroke-width:0"
+           x="10.833332"
+           y="22.541224"
            id="text1"><tspan
              sodipodi:role="line"
              id="tspan34"
-             x="116.83334"
-             y="30.207382"
+             x="10.833332"
+             y="22.541224"
              style="line-height:1;stroke-width:0" /><tspan
              sodipodi:role="line"
-             id="tspan45"
-             x="116.83334"
-             y="62.671207"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.0591px;line-height:1.16;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0">Aspen Library</tspan><tspan
-             sodipodi:role="line"
              id="tspan38"
-             x="116.83334"
-             y="97.539764"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.0591px;line-height:1.16;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0">Software</tspan></text>
+             x="10.833332"
+             y="50.506634"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8939px;line-height:1.16;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0">Aspen Library</tspan><tspan
+             sodipodi:role="line"
+             x="10.833332"
+             y="80.543556"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8939px;line-height:1.16;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+             id="tspan1">Library Software</tspan><tspan
+             sodipodi:role="line"
+             x="10.833332"
+             y="110.58048"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8939px;line-height:1.16;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+             id="tspan2">Foundation</tspan></text>
       </g>
     </g>
   </g>
